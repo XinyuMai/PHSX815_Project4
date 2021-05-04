@@ -20,5 +20,5 @@ In this project, we can implicitly specify non-default values for the probabilit
 
 
 ## For Peer reviewer 
-Since my previous projects already interpreted the simulation in the context of a real physics experiment, that is simulating a planetary system [only two planets] with orbital parameters samples from Beta distribution and evaluate stability outcomes from Bernoulli trails. One of the natural sources of variation is the 
+Since my previous projects already interpreted the simulation in the context of a real physics experiment, that is simulating a planetary system [only two planets] with orbital parameters samples from Beta distribution and evaluate stability outcomes from Bernoulli trails. Other natural sources of variation I could think of are number of planets orbiting, center mass of the planetary system, the other five planets' orbital elements, eccentricity, inclination, argument of pericentre, longitude of the ascending node, mean anomaly can be took into account for stability. I was wondering how to model these variations for the measurements, how do I measure these uncertainties statistically, and what are the questions I could address by this analysis. 
 
