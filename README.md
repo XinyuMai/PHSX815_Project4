@@ -1,7 +1,7 @@
 # PHSX815_Project4
 for Project 4 the measurements must be interpreted in the context of a real physics experiment or analysis. For example, categorical dice rolls could be interpreted as spin measurements, or a Gaussian likelihood could represent the uncertainty in a measurement. It is expected that students will include at least one contemporary citation providing background information about the experimental scenario.
 
-## Project Description:  Orbit Stability Simulation of Planetary systems
+## Project Description:  Eclipse time of minimum Simulation
 In this project, we simulate artificial light curves of a sdB eclipsing binary system HS0705+6700 and determine the time of minimum of simulated primary eclipses by fitting a Gaussian profile. These pertain especially to observations using relatively small-aperture telescopes. We also evaluate the uncertainty in the time of  minimum determination of an eclipsing binary light curve constructed from a series of images with relatively long exposure times and image download times. Using this simulated data, we compare with the published time of minimum and evaluate the difference between true time of minimum and determined time of minimum. We also adjust different exposure time and explore how simulated time of minimum uncertainty would depart from default set up.
 
 ## This repository contains several types of programs:
